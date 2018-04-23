@@ -1,4 +1,4 @@
-# php-solutions
+# Fun Sampling of Solving PHP Problems
 
 This repository contains 4 folders. Each contains the development for a programming problem.
 
