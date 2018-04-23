@@ -14,4 +14,4 @@ This solution solves a common rounding issue associated with the PHP floor() fun
 This solution fixes a bug in an open source software which renders an Excel page to a web page. The hyperlink functionality was not working and is fixed in this solution.
 
 ### Solution 4
-This solution is an algorithm which computes the number of occurances of a sequence within a string. The user can upload a file of strings to see the number of times the given sequence occurs for each string per line.
+This solution is an algorithm which computes the number of occurances of a sequence within a string. The user can upload a file of strings to see the number of times the given sequence occurs.
