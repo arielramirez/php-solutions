@@ -2,7 +2,7 @@
 
 This repository contains 4 folders. Each contains the development for a programming problem.
 
-This is wrapped in a bootstrapped website. For testing, just place the enter codebase on a server running PHP 7 and open home.php.
+This is wrapped in a bootstrapped website. For testing, just place the codebase on a server running PHP 7 and open home.php.
 
 ### Solution 1
 This solution computes the minimum breakeven price for a file containing tab-delimited cost with a processing fee percentage.
